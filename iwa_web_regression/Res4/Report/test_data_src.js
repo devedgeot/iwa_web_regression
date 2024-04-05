@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\alopes2\\WORKAREA\\iwa_web_regression\\Res4',namePairs:[]}]};
